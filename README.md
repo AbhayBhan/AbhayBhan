@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhay Bhan</h1>
 <h3 align="center">An Experienced Full-Stack Developer.</h3>
 
-- 🔭 I’m currently working on **Notary Subscription & Referral Microservice**
+- 🔭 I’m currently working on **Industrial Business Applications**
 
 - 🌱 I’m currently learning **Docker, WebAssembly**
 
