@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **abhaybhan@outlook.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qjvr35v8h1GMmVsEUmB_GRxQ-Daw0had/view?usp=sharing](https://drive.google.com/file/d/1qjvr35v8h1GMmVsEUmB_GRxQ-Daw0had/view?usp=sharing)
-
 - ⚡ Me In a Shell **Hard Working Developer, Striving to create an Impact with my Brain and Code**
 
 <h3 align="left">Connect with me:</h3>
